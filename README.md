@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Tolu Sorinola]
-> Cloud Engineer, Researcher
+> Cloud/DevOp Engineer, AWS Ethusiast
 
 
 
